@@ -71,5 +71,5 @@
 ### :clipboard: Mangrove-Sun's GitHub Stats
 <!-- Stats -->
 
-![Mangrove-Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangrove-Sun&show_icons=true&title_color=4FF788&bg_color=deg,0F2027,203A43,2C5364&icon_color=F73B4B&text_color=F0DA73&hide_border=true&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangrove-Sun&layout=compact&title_color=4FF788&bg_color=deg,2C5364,203A43,0F2027&icon_color=F73B4B&text_color=F0DA73&hide_border=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+![Mangrove-Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangrove-Sun&show_icons=true&title_color=4FF788&bg_color=45,0F2027,203A43,2C5364&icon_color=F73B4B&text_color=F0DA73&hide_border=true&hide_title=true)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangrove-Sun&layout=compact&title_color=4FF788&bg_color=45,2C5364,203A43,0F2027&icon_color=F73B4B&text_color=F0DA73&hide_border=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
