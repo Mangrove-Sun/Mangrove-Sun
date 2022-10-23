@@ -39,7 +39,6 @@
 <!-- Tools -->
 <div>
   <span>
-    <div>
       <!-- Git -->
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <!-- Sass -->
@@ -50,8 +49,6 @@
       <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white" />
       <!-- React Query -->
       <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white" />
-    </div>
-    <div>
       <!-- Vite -->
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
       <!-- Axios -->
@@ -66,6 +63,10 @@
       <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=Swiper&logoColor=white" />
       <!-- .ENV -->
       <img src="https://img.shields.io/badge/.ENV-ECD53F?style=flat-square&logo=.ENV&logoColor=black" />
-    <div>
   </span>
-</div>
+</div>   
+
+### :clipboard: Mangrove-Sun's GitHub Stats
+<!-- Stats -->
+![Mangrove-Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangrove-Sun&show_icons=true&title_color=4FF788&bg_color=151b26&icon_color=F73B4B&text_color=F0DA73&hide_border=true&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangrove-Sun&layout=compact&title_color=4FF788&bg_color=151b26&icon_color=F73B4B&text_color=F0DA73&hide_border=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
