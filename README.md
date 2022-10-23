@@ -52,10 +52,6 @@
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white" />
       <!-- Netlify -->
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white" />
-      <!-- ESlint -->
-      <img src="https://img.shields.io/badge/ESlint-4B32C3?style=flat&logo=ESlint&logoColor=white" />
-      <!-- Prettier -->
-      <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=black" />
       <!-- Swiper -->
       <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat&logo=Swiper&logoColor=white" />
       <!-- .ENV -->
