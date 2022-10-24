@@ -83,11 +83,9 @@
 ## :dizzy: Algorithm
 <!-- Algorithm -->
 ### BOJ
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsghd0317)](https://solved.ac/tjsghd0317)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsghd0317)](https://solved.ac/tjsghd0317)
 
 ## :clipboard: Mangrove-Sun's GitHub Stats
 <!-- Stats -->
-
 ![Mangrove-Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangrove-Sun&show_icons=true&title_color=4FF788&bg_color=13171e&icon_color=F73B4B&text_color=F0DA73&hide_border=true&hide_title=true)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangrove-Sun&layout=compact&title_color=4FF788&bg_color=13171e&icon_color=F73B4B&text_color=F0DA73&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
