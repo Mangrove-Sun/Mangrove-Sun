@@ -46,6 +46,10 @@
     <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=React Router&logoColor=white" />
     <!-- React Query -->
     <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white" />
+    <!-- Vuex -->
+    <img src="https://img.shields.io/badge/Vuex-3EAF7C?style=flat&logo=Vuex&logoColor=white" />
+    <!-- Pinia -->
+    <img src="https://img.shields.io/badge/Pinia-FFE166?style=flat&logo=Pinia&logoColor=white" />
     <!-- Axios -->
     <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white" />
     <!-- Swiper -->
