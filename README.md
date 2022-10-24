@@ -4,11 +4,17 @@
 <div>
   <span>
     <!-- Gmail -->
-    <img src="https://img.shields.io/badge/tjsghd0317@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+    <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=tjsghd0317@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/tjsghd0317@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+    </a>
     <!-- LinkedIn -->
-    <img src="https://img.shields.io/badge/박선홍-046EAB?style=flat&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/%EC%84%A0%ED%99%8D-%EB%B0%95-74aba2236/" target="_blank">
+      <img src="https://img.shields.io/badge/박선홍-046EAB?style=flat&logo=linkedin&logoColor=white" />
+    </a>
     <!-- Instagram -->
-    <img src="https://img.shields.io/badge/parknakta07-E4405F?style=flat&logo=instagram&logoColor=white" />
+    <a href="https://www.instagram.com/parknakta07/" target="_blank">
+      <img src="https://img.shields.io/badge/parknakta07-E4405F?style=flat&logo=instagram&logoColor=white" />
+    </a>
   </span>
 </div>
 
