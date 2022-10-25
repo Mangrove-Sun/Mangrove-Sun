@@ -89,7 +89,7 @@
 ## :dizzy: Algorithm
 <!-- Algorithm -->
 ### BOJ
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsghd0317)](https://solved.ac/tjsghd0317)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjsghd0317)](https://solved.ac/tjsghd0317)
 
 ## :clipboard: Mangrove-Sun's GitHub Stats
 <!-- Stats -->
